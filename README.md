@@ -1,3 +1,11 @@
+---
+[![](https://visitcount.itsvg.in/api?id=aamirnaseem18&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=aamirnaseem18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Profile views](https://komarev.com/ghpvc/?username=aamirnaseem18&style=flat&color=blue)
+
+
 # 💫 About Me:
 About Me :<br>🔭 I’m currently working on architecting high-performance, event-driven microservices (Node.js/Redis) and orchestrating multi-agent AI workflows.<br>👯 I’m looking to collaborate on open-source AI tooling, distributed backend systems, and LLM-integrated applications.<br>🤝 I’m looking for help with advanced search engine optimizations (OpenSearch) and scaling complex asynchronous queues.<br>🌱 I’m currently learning advanced RAG architectures, cloud-native deployments, and optimizing LLM inference.<br>💬 Ask me about backend system design, API latency optimization (Cache-Aside), DB schema modeling, and building autonomous AI agents.<br>⚡ Fun fact I published peer-reviewed research on Deep Learning for ASL recognition at IEEE ICOEI 2025—I love bridging the gap between complex code and real-world accessibility!
 
@@ -11,9 +19,4 @@ About Me :<br>🔭 I’m currently working on architecting high-performance, eve
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=aamirnaseem18&icon=0&color=0)](https://visitcount.itsvg.in)
----
-[![](https://visitcount.itsvg.in/api?id=aamirnaseem18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Profile views](https://komarev.com/ghpvc/?username=aamirnaseem18&style=flat&color=blue)
